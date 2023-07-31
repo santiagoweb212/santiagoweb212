@@ -1,5 +1,5 @@
 <div>
-       <video src="./img/Grey Minimalist Modern Social Media Specialist LinkedIn Banner.mp4" muted autoplay loop />
+       <video src="./img/Grey Minimalist Modern Social Media Specialist LinkedIn Banner.mp4" muted autoplay loop ></video>
 </div>
 
 hola soy un desarrollador full stack  en constante aprendizaje 
