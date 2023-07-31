@@ -1,3 +1,6 @@
+<div>
+        <img src="./img/Grey Minimalist Modern Social Media Specialist LinkedIn Banner (1).jpg" alt="">
+    </div>
 ### Hi there 👋
 
 <!--
