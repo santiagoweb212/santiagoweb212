@@ -4,8 +4,7 @@
 
 # 💫 About Me:
 **¡Hola! Soy Santiago, un apasionado desarrollador full stack en busca de nuevos retos y oportunidades para crecer profesionalmente. Mis habilidades incluyen desarrollo Frontend con React , Backend con Node.js , express , y experiencia en bases de datos SQL . Siempre estoy ansioso por aprender y mantenerme actualizado con las últimas tecnologías. En mi tiempo libre, me gusta emprender proyectos personales para seguir creciendo como desarrollador.Además de programar,  me apasiona la música .
-¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y emocionado por aprender de otras personas en la industria tecnológica.
-**
+¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y emocionado por aprender de otras personas en la industria tecnológica.**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiagousca/) 
 
